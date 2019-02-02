@@ -1,0 +1,76 @@
+Watts-Strogatz graph benchmarks (p=0.10)
+
+n =  1000 k =  5 #nodes =  1000 #edges =  2000
+Fast algorithm        K: 2 t: 0.49825193401193246
+Original algorithm    K: 2 t: 11.45236963199568
+Approximate algorithm K: 2 t: 0.253453454002738
+
+n =  1000 k =  6 #nodes =  1000 #edges =  3000
+Fast algorithm        K: 3 t: 0.3969691439997405
+Original algorithm    K: 3 t: 14.937082721007755
+Approximate algorithm K: 3 t: 0.30275392599287443
+
+n =  1000 k =  7 #nodes =  1000 #edges =  3000
+Fast algorithm        K: 3 t: 0.4303643510211259
+Original algorithm    K: 3 t: 15.537271056993632
+Approximate algorithm K: 3 t: 0.29119317801087163
+
+n =  1000 k =  8 #nodes =  1000 #edges =  4000
+Fast algorithm        K: 5 t: 0.5657260800071526
+Original algorithm    K: 5 t: 19.003711341996677
+Approximate algorithm K: 5 t: 0.45712359898607247
+
+n =  1000 k =  9 #nodes =  1000 #edges =  4000
+Fast algorithm        K: 5 t: 0.6836768939974718
+Original algorithm    K: 5 t: 18.77071764098946
+Approximate algorithm K: 5 t: 0.4625026209978387
+
+n =  2000 k =  5 #nodes =  2000 #edges =  4000
+Fast algorithm        K: 2 t: 0.945651665009791
+Original algorithm    K: 2 t: 45.41322579298867
+Approximate algorithm K: 2 t: 0.5366576990054455
+
+n =  2000 k =  6 #nodes =  2000 #edges =  6000
+Fast algorithm        K: 3 t: 1.0371242450200953
+Original algorithm    K: 3 t: 56.95118422299856
+Approximate algorithm K: 3 t: 0.8064536099846009
+
+n =  2000 k =  7 #nodes =  2000 #edges =  6000
+Fast algorithm        K: 4 t: 1.7416561879799701
+Original algorithm    K: 4 t: 59.30224861501483
+Approximate algorithm K: 4 t: 1.0599223220197018
+
+n =  2000 k =  8 #nodes =  2000 #edges =  8000
+Fast algorithm        K: 5 t: 1.622887893987354
+Original algorithm    K: 5 t: 70.43710932901013
+Approximate algorithm K: 5 t: 1.2683725200186018
+
+n =  2000 k =  9 #nodes =  2000 #edges =  8000
+Fast algorithm        K: 4 t: 1.183749807998538
+Original algorithm    K: 4 t: 66.22835857098107
+Approximate algorithm K: 4 t: 0.9465602099953685
+
+n =  3000 k =  5 #nodes =  3000 #edges =  6000
+Fast algorithm        K: 2 t: 1.3709075060032774
+Original algorithm    K: 2 t: 96.99657776899403
+Approximate algorithm K: 2 t: 0.8788580519903917
+
+n =  3000 k =  6 #nodes =  3000 #edges =  9000
+Fast algorithm        K: 3 t: 1.8329274150019046
+Original algorithm    K: 3 t: 122.94252134798444
+Approximate algorithm K: 3 t: 1.3104412110114936
+
+n =  3000 k =  7 #nodes =  3000 #edges =  9000
+Fast algorithm        K: 3 t: 1.7319025640026666
+Original algorithm    K: 3 t: 122.46840203899774
+Approximate algorithm K: 3 t: 1.3384858559875283
+
+n =  3000 k =  8 #nodes =  3000 #edges =  12000
+Fast algorithm        K: 5 t: 3.1172208999923896
+Original algorithm    K: 5 t: 155.02555913297692
+Approximate algorithm K: 5 t: 2.489503437973326
+
+n =  3000 k =  9 #nodes =  3000 #edges =  12000
+Fast algorithm        K: 5 t: 3.0813720939913765
+Original algorithm    K: 5 t: 151.25982138499967
+Approximate algorithm K: 5 t: 2.3495965729816817

@@ -1,0 +1,50 @@
+Worst case Barabasi-Albert graphs
+
+Fast worst case    K: 4 t: 67.24951901199529
+Original algorithm K: 4 t: 68.09812424800475
+
+Fast worst case    K: 4 t: 67.47647145600058
+Original algorithm K: 4 t: 66.44104401301593
+
+Fast worst case    K: 4 t: 67.6486507189984
+Original algorithm K: 4 t: 67.18817964597838
+
+Fast worst case    K: 4 t: 68.08023200300522
+Original algorithm K: 4 t: 66.77867178898305
+
+Fast worst case    K: 4 t: 68.81827678499394
+Original algorithm K: 4 t: 67.95580610699835
+
+Worst case Erdos-Renyi graphs
+
+Fast worst case    K: 13 t: 57.87264456198318
+Original algorithm K: 13 t: 57.452433472004486
+
+Fast worst case    K: 15 t: 62.66547342800186
+Original algorithm K: 15 t: 60.96831700799521
+
+Fast worst case    K: 12 t: 55.811364414024865
+Original algorithm K: 12 t: 55.2875133670168
+
+Fast worst case    K: 14 t: 59.820123565004906
+Original algorithm K: 14 t: 58.59856275099446
+
+Fast worst case    K: 15 t: 61.24938508900232
+Original algorithm K: 15 t: 61.64648888402735
+
+Worst case Watts-Strogatz graphs
+
+Fast worst case    K: 5 t: 72.55485465200036
+Original algorithm K: 5 t: 71.14637235199916
+
+Fast worst case    K: 5 t: 71.1597859460162
+Original algorithm K: 5 t: 69.51093091000803
+
+Fast worst case    K: 5 t: 74.10120390402153
+Original algorithm K: 5 t: 71.23631437600125
+
+Fast worst case    K: 5 t: 71.54087027499918
+Original algorithm K: 5 t: 69.03208708800958
+
+Fast worst case    K: 5 t: 73.00514114499674
+Original algorithm K: 5 t: 71.51044943201123

@@ -1,0 +1,904 @@
+Effect of starting node choice
+
+node a6457 napprox =  3085 nexact =  245
+K: 6 t: 71.33846620999975
+node c481 napprox =  3083 nexact =  270
+K: 6 t: 89.13355598400085
+node f205 napprox =  3087 nexact =  321
+K: 6 t: 98.7356709079977
+node d1225 napprox =  3086 nexact =  320
+K: 6 t: 71.48745518000214
+node d3810 napprox =  3090 nexact =  258
+K: 6 t: 71.81945162000193
+node d7988 napprox =  3088 nexact =  663
+K: 6 t: 121.95665797699621
+node h1998 napprox =  3087 nexact =  267
+K: 6 t: 65.28719663499942
+node h6722 napprox =  3083 nexact =  249
+K: 6 t: 64.63903141499759
+node h8264 napprox =  3089 nexact =  249
+K: 6 t: 69.65020606100006
+node b0079 napprox =  3084 nexact =  224
+K: 6 t: 62.589603791995614
+node b6573 napprox =  3087 nexact =  1802
+K: 6 t: 303.12492093000037
+node b6862 napprox =  3082 nexact =  2211
+K: 6 t: 358.1430213450003
+node b9947 napprox =  3087 nexact =  263
+K: 6 t: 64.98657666300278
+node i2243 napprox =  3088 nexact =  288
+K: 6 t: 63.0135247510043
+node e1942 napprox =  3087 nexact =  278
+K: 6 t: 59.88330107599904
+node e6237 napprox =  3084 nexact =  227
+K: 6 t: 58.822198633999506
+node a60052 napprox =  3088 nexact =  275
+K: 6 t: 61.25295512300363
+node a63837 napprox =  3084 nexact =  951
+K: 6 t: 152.87862775399844
+node a64187 napprox =  3083 nexact =  280
+K: 6 t: 68.77861133200349
+node c2000 napprox =  3084 nexact =  280
+K: 6 t: 62.81079184800183
+node c7858 napprox =  3085 nexact =  2562
+K: 6 t: 410.60633048399905
+node f2972 napprox =  3085 nexact =  226
+K: 6 t: 59.409861225001805
+node f3377 napprox =  3088 nexact =  225
+K: 6 t: 53.272925979006686
+node f6268 napprox =  3086 nexact =  1382
+K: 6 t: 250.61765309699695
+node f7484 napprox =  3088 nexact =  1828
+K: 6 t: 281.376302097
+node f7987 napprox =  3087 nexact =  580
+K: 6 t: 121.90179939099471
+node d07277 napprox =  3084 nexact =  260
+K: 6 t: 57.541978484005085
+node d11380 napprox =  3087 nexact =  279
+K: 6 t: 59.47787301099743
+node d14322 napprox =  3085 nexact =  279
+K: 6 t: 63.04819066300115
+node d18075 napprox =  3087 nexact =  271
+K: 6 t: 60.40440185699845
+node d26521 napprox =  3084 nexact =  466
+K: 6 t: 77.29203121899627
+node d30428 napprox =  3090 nexact =  260
+K: 6 t: 66.47391644900199
+node d32524 napprox =  3090 nexact =  252
+K: 6 t: 62.822849160998885
+node d36344 napprox =  3090 nexact =  276
+K: 6 t: 62.75933319300384
+node d43227 napprox =  3083 nexact =  255
+K: 6 t: 64.4168463130045
+node d45656 napprox =  3085 nexact =  401
+K: 6 t: 106.66951427699678
+node d45851 napprox =  3090 nexact =  261
+K: 6 t: 95.04060813399701
+node d49479 napprox =  3083 nexact =  514
+K: 6 t: 102.69334497499949
+node d54379 napprox =  3089 nexact =  277
+K: 6 t: 95.34886664600344
+node d59803 napprox =  3087 nexact =  272
+K: 6 t: 81.4668978119953
+node d61178 napprox =  3082 nexact =  262
+K: 6 t: 92.25472235299821
+node d61303 napprox =  3091 nexact =  277
+K: 6 t: 100.11193394000293
+node d67904 napprox =  3085 nexact =  2146
+K: 6 t: 402.48134268500144
+node d68779 napprox =  3083 nexact =  278
+K: 6 t: 63.630787385001895
+node d70385 napprox =  3087 nexact =  260
+K: 6 t: 63.49048917100299
+node d72722 napprox =  3090 nexact =  265
+K: 6 t: 59.3888250960008
+node d73290 napprox =  3087 nexact =  2271
+K: 6 t: 421.0500545640025
+node d73653 napprox =  3084 nexact =  1682
+K: 6 t: 293.0587996920003
+node d75508 napprox =  3092 nexact =  259
+K: 6 t: 66.91272296300303
+node d80123 napprox =  3088 nexact =  265
+K: 6 t: 62.08899139799905
+node d84797 napprox =  3083 nexact =  364
+K: 6 t: 72.06261672700202
+node d86327 napprox =  3088 nexact =  356
+K: 6 t: 75.75846761999856
+node d86987 napprox =  3082 nexact =  382
+K: 6 t: 66.18504182099423
+node d94396 napprox =  3088 nexact =  265
+K: 6 t: 60.48774364699784
+node d94876 napprox =  3092 nexact =  235
+K: 6 t: 57.91714061899984
+node d95814 napprox =  3087 nexact =  249
+K: 6 t: 54.72815277399786
+node h03023 napprox =  3083 nexact =  269
+K: 6 t: 66.61430916200334
+node h03879 napprox =  3091 nexact =  245
+K: 6 t: 59.53087645600317
+node h06534 napprox =  3086 nexact =  237
+K: 6 t: 53.0871687139952
+node h08525 napprox =  3088 nexact =  237
+K: 6 t: 59.56884961500327
+node h09149 napprox =  3090 nexact =  243
+K: 6 t: 58.660439245002635
+node h09365 napprox =  3090 nexact =  290
+K: 6 t: 63.111574116002885
+node h13537 napprox =  3087 nexact =  468
+K: 6 t: 115.78322287300398
+node h21445 napprox =  3089 nexact =  287
+K: 6 t: 62.82515479299764
+node h25016 napprox =  3090 nexact =  285
+K: 6 t: 61.69091005699738
+node h25214 napprox =  3091 nexact =  256
+K: 6 t: 59.499316435001674
+node h28821 napprox =  3087 nexact =  294
+K: 6 t: 83.71861489000003
+node h31146 napprox =  3085 nexact =  267
+K: 6 t: 83.26196647000324
+node h32646 napprox =  3083 nexact =  593
+K: 6 t: 134.20746747100202
+node h33383 napprox =  3090 nexact =  292
+K: 6 t: 63.943480749003356
+node h34425 napprox =  3082 nexact =  285
+K: 6 t: 61.11816210499819
+node h34863 napprox =  3089 nexact =  281
+K: 6 t: 62.13726830399537
+node h41121 napprox =  3086 nexact =  268
+K: 6 t: 63.37634673999855
+node h44073 napprox =  3085 nexact =  276
+K: 6 t: 79.34007569700043
+node h52420 napprox =  3082 nexact =  2007
+K: 6 t: 379.9469730529963
+node h53903 napprox =  3086 nexact =  305
+K: 6 t: 85.68300718499813
+node h54358 napprox =  3084 nexact =  249
+K: 6 t: 69.23042083699693
+node h60111 napprox =  3085 nexact =  313
+K: 6 t: 66.76579554800264
+node h60191 napprox =  3088 nexact =  279
+K: 6 t: 90.54945472400141
+node h62975 napprox =  3082 nexact =  567
+K: 6 t: 121.59115113699954
+node h65102 napprox =  3083 nexact =  786
+K: 6 t: 151.79734499999904
+node h66422 napprox =  3082 nexact =  295
+K: 6 t: 85.6469437420019
+node h72941 napprox =  3086 nexact =  264
+K: 6 t: 91.08995975200378
+node h73327 napprox =  3085 nexact =  275
+K: 6 t: 84.0811934020021
+node h85285 napprox =  3086 nexact =  320
+K: 6 t: 79.1494381320008
+node h91910 napprox =  3088 nexact =  269
+K: 6 t: 79.07956464000017
+node h95265 napprox =  3089 nexact =  256
+K: 6 t: 87.4642018999948
+node h98204 napprox =  3086 nexact =  686
+K: 6 t: 145.78910801300663
+node b03528 napprox =  3088 nexact =  474
+K: 6 t: 136.64919223800098
+node b04220 napprox =  3084 nexact =  273
+K: 6 t: 114.3844982810042
+node b15608 napprox =  3091 nexact =  1550
+K: 6 t: 270.01074170500215
+node b17816 napprox =  3087 nexact =  277
+K: 6 t: 79.14855079699919
+node b18386 napprox =  3088 nexact =  319
+K: 6 t: 71.48586245899787
+node b32739 napprox =  3087 nexact =  290
+K: 6 t: 67.23421599799622
+node b34116 napprox =  3088 nexact =  2202
+K: 6 t: 370.4111636410016
+node b35623 napprox =  3083 nexact =  280
+K: 6 t: 82.31483638600184
+node b35899 napprox =  3087 nexact =  368
+K: 6 t: 100.76248189400212
+node b44750 napprox =  3088 nexact =  1090
+K: 6 t: 208.85281901700364
+node b46362 napprox =  3086 nexact =  274
+K: 6 t: 65.22549418199924
+node b51718 napprox =  3087 nexact =  3008
+K: 6 t: 457.39196500399703
+node b54226 napprox =  3088 nexact =  247
+K: 6 t: 56.741548704005254
+node b57158 napprox =  3084 nexact =  311
+K: 6 t: 63.62748935599666
+node b82397 napprox =  3082 nexact =  1393
+K: 6 t: 283.68496553500154
+node b88915 napprox =  3085 nexact =  313
+K: 6 t: 97.9865785639995
+node b93328 napprox =  3084 nexact =  896
+K: 6 t: 187.13451274899853
+node b94395 napprox =  3091 nexact =  255
+K: 6 t: 64.00187860600272
+node i04957 napprox =  3083 nexact =  284
+K: 6 t: 67.15983793399937
+node i17452 napprox =  3086 nexact =  1231
+K: 6 t: 197.63943996599846
+node i20226 napprox =  3088 nexact =  273
+K: 6 t: 78.12325176000013
+node i27366 napprox =  3086 nexact =  255
+K: 6 t: 61.632008082997345
+node i36289 napprox =  3086 nexact =  2242
+K: 6 t: 351.4735641060033
+node i38922 napprox =  3082 nexact =  224
+K: 6 t: 59.22249398599524
+node i41035 napprox =  3094 nexact =  282
+K: 6 t: 80.02026442399801
+node i41945 napprox =  3082 nexact =  262
+K: 6 t: 78.55621069300105
+node i47255 napprox =  3083 nexact =  267
+K: 6 t: 59.211620075999235
+node i51485 napprox =  3089 nexact =  275
+K: 6 t: 59.39548549500614
+node i53127 napprox =  3085 nexact =  1266
+K: 6 t: 191.81259213000158
+node i53585 napprox =  3087 nexact =  245
+K: 6 t: 64.90493275500194
+node i54245 napprox =  3087 nexact =  280
+K: 6 t: 65.30582888900244
+node i56663 napprox =  3090 nexact =  242
+K: 6 t: 56.87960051999835
+node i58243 napprox =  3090 nexact =  272
+K: 6 t: 78.11353043399868
+node i59116 napprox =  3086 nexact =  279
+K: 6 t: 59.73520215300232
+node i78688 napprox =  3089 nexact =  273
+K: 6 t: 76.02289742499852
+node i81451 napprox =  3084 nexact =  337
+K: 6 t: 80.33138009699906
+node i86270 napprox =  3083 nexact =  255
+K: 6 t: 56.68705572199542
+node i88815 napprox =  3088 nexact =  277
+K: 6 t: 63.796709728994756
+node i92464 napprox =  3089 nexact =  1883
+K: 6 t: 294.987525605
+node i92692 napprox =  3085 nexact =  2037
+K: 6 t: 306.25188805299695
+node e13185 napprox =  3089 nexact =  3059
+K: 6 t: 498.3074951439994
+node e16528 napprox =  3082 nexact =  1156
+K: 6 t: 184.83362798800226
+node e22416 napprox =  3088 nexact =  268
+K: 6 t: 82.8385998379963
+node e22433 napprox =  3088 nexact =  264
+K: 6 t: 78.25687790200027
+node e34279 napprox =  3091 nexact =  291
+K: 6 t: 65.28462595400197
+node e35069 napprox =  3089 nexact =  303
+K: 6 t: 61.604916559997946
+node e35965 napprox =  3090 nexact =  274
+K: 6 t: 70.02153344499675
+node e36278 napprox =  3082 nexact =  1367
+K: 6 t: 235.79645104600058
+node e42850 napprox =  3082 nexact =  295
+K: 6 t: 65.40620798199961
+node e48898 napprox =  3092 nexact =  250
+K: 6 t: 64.06242547099828
+node e49458 napprox =  3088 nexact =  2233
+K: 6 t: 431.64390830299817
+node e55486 napprox =  3083 nexact =  233
+K: 6 t: 55.97114236600464
+node e55890 napprox =  3083 nexact =  261
+K: 6 t: 55.822505350006395
+node e58677 napprox =  3085 nexact =  258
+K: 6 t: 66.93049253500067
+node e63277 napprox =  3084 nexact =  279
+K: 6 t: 64.19383898600063
+node e67306 napprox =  3083 nexact =  324
+K: 6 t: 63.99230700000044
+node e67722 napprox =  3083 nexact =  256
+K: 6 t: 71.9804416650004
+node e79197 napprox =  3087 nexact =  261
+K: 6 t: 66.02285985499475
+node e82032 napprox =  3084 nexact =  2690
+K: 6 t: 408.10537337900314
+node e88272 napprox =  3087 nexact =  256
+K: 6 t: 59.699209016995155
+node e91658 napprox =  3089 nexact =  203
+K: 6 t: 57.2119352479931
+node e97883 napprox =  3084 nexact =  2906
+K: 6 t: 441.2078328589996
+node a603888 napprox =  3084 nexact =  3025
+K: 6 t: 549.65567577201
+node a607866 napprox =  3086 nexact =  483
+K: 6 t: 107.00083133899898
+node a611564 napprox =  3090 nexact =  289
+K: 6 t: 74.59212816999934
+node a619198 napprox =  3085 nexact =  308
+K: 6 t: 65.85019466700032
+node a628245 napprox =  3084 nexact =  3078
+K: 6 t: 552.0925093149999
+node a631206 napprox =  3084 nexact =  2784
+K: 6 t: 520.5879380719998
+node a631729 napprox =  3085 nexact =  279
+K: 6 t: 61.66481263200694
+node a633140 napprox =  3084 nexact =  279
+K: 6 t: 62.833555153003545
+node a633888 napprox =  3089 nexact =  278
+K: 6 t: 66.12795816799917
+node a636667 napprox =  3083 nexact =  3073
+K: 6 t: 492.0400391919975
+node a643384 napprox =  3087 nexact =  755
+K: 6 t: 146.0800414839905
+node a646847 napprox =  3082 nexact =  279
+K: 6 t: 63.1932591710065
+node a649426 napprox =  3082 nexact =  268
+K: 6 t: 65.72902339400025
+node a652769 napprox =  3090 nexact =  282
+K: 6 t: 63.95861847601191
+node a655448 napprox =  3089 nexact =  258
+K: 6 t: 65.10268077399815
+node a662575 napprox =  3086 nexact =  253
+K: 6 t: 66.44445087999338
+node a665199 napprox =  3087 nexact =  229
+K: 6 t: 54.89774387801299
+node a665384 napprox =  3090 nexact =  269
+K: 6 t: 62.69806044999859
+node a672165 napprox =  3092 nexact =  272
+K: 6 t: 62.78633892801008
+node a672696 napprox =  3086 nexact =  299
+K: 6 t: 62.047391361003974
+node a681388 napprox =  3083 nexact =  280
+K: 6 t: 63.969329088009545
+node a692129 napprox =  3088 nexact =  265
+K: 6 t: 60.95463650400052
+node a694137 napprox =  3083 nexact =  270
+K: 6 t: 77.07624092599144
+node a696837 napprox =  3085 nexact =  1687
+K: 6 t: 239.33560856200347
+node a698769 napprox =  3088 nexact =  266
+K: 6 t: 66.01332930100034
+node a699642 napprox =  3088 nexact =  302
+K: 6 t: 62.222993249000865
+node g00987 napprox =  3085 nexact =  288
+K: 6 t: 57.06235995500174
+node g02486 napprox =  3082 nexact =  1661
+K: 6 t: 277.61043848699774
+node g09076 napprox =  3084 nexact =  289
+K: 6 t: 62.461560827010544
+node g11034 napprox =  3087 nexact =  1878
+K: 6 t: 324.00964009200106
+node g11417 napprox =  3087 nexact =  439
+K: 6 t: 76.8660113579972
+node g11699 napprox =  3091 nexact =  297
+K: 6 t: 66.43309858199791
+node g15391 napprox =  3082 nexact =  293
+K: 6 t: 78.84195069898851
+node g25576 napprox =  3083 nexact =  486
+K: 6 t: 97.21229511100682
+node g26645 napprox =  3084 nexact =  2249
+K: 6 t: 340.0328100320039
+node g36629 napprox =  3087 nexact =  274
+K: 6 t: 75.6449915109988
+node g40677 napprox =  3089 nexact =  366
+K: 6 t: 82.2089465700119
+node g40993 napprox =  3087 nexact =  220
+K: 6 t: 55.50199072099349
+node g42827 napprox =  3090 nexact =  246
+K: 6 t: 59.78230030699342
+node g48008 napprox =  3088 nexact =  247
+K: 6 t: 54.58954572099901
+node g52387 napprox =  3082 nexact =  269
+K: 6 t: 76.25021673001174
+node g54224 napprox =  3082 nexact =  279
+K: 6 t: 60.57507954898756
+node g58220 napprox =  3083 nexact =  312
+K: 6 t: 63.22115433200088
+node g65702 napprox =  3082 nexact =  267
+K: 6 t: 76.6716921509942
+node g72404 napprox =  3083 nexact =  269
+K: 6 t: 76.55032938999648
+node g73507 napprox =  3083 nexact =  375
+K: 6 t: 82.70428637199802
+node g74417 napprox =  3090 nexact =  285
+K: 6 t: 61.371007343987
+node g79530 napprox =  3085 nexact =  267
+K: 6 t: 66.69272785600333
+node g86369 napprox =  3086 nexact =  250
+K: 6 t: 64.56789559499884
+node g87368 napprox =  3086 nexact =  251
+K: 6 t: 70.23578550601087
+node c00653 napprox =  3089 nexact =  272
+K: 6 t: 67.6727535270038
+node c02586 napprox =  3085 nexact =  252
+K: 6 t: 55.73309103300562
+node c12839 napprox =  3086 nexact =  321
+K: 6 t: 67.96783852099907
+node c17033 napprox =  3087 nexact =  277
+K: 6 t: 67.46097922600165
+node c24747 napprox =  3082 nexact =  2925
+K: 6 t: 481.2285523760074
+node c25399 napprox =  3084 nexact =  3076
+K: 6 t: 508.77601400000276
+node c26712 napprox =  3088 nexact =  268
+K: 6 t: 63.394523158000084
+node c27461 napprox =  3086 nexact =  1580
+K: 6 t: 306.1389478170022
+node c28383 napprox =  3090 nexact =  252
+K: 6 t: 62.2043785440037
+node c32266 napprox =  3085 nexact =  228
+K: 6 t: 58.45984008999949
+node c37929 napprox =  3087 nexact =  280
+K: 6 t: 76.12707225899794
+node c48310 napprox =  3090 nexact =  199
+K: 6 t: 51.085740941009135
+node c48792 napprox =  3085 nexact =  1636
+K: 6 t: 257.131022268004
+node c51791 napprox =  3089 nexact =  266
+K: 6 t: 62.89923207400716
+node c55594 napprox =  3084 nexact =  439
+K: 6 t: 80.57371849700576
+node c57595 napprox =  3088 nexact =  273
+K: 6 t: 62.35354218800785
+node c57641 napprox =  3092 nexact =  286
+K: 6 t: 62.98499706899747
+node c57869 napprox =  3083 nexact =  236
+K: 6 t: 67.42517179599963
+node c58949 napprox =  3093 nexact =  265
+K: 6 t: 66.67686095299723
+node c60233 napprox =  3083 nexact =  642
+K: 6 t: 98.21493993900367
+node c64744 napprox =  3085 nexact =  327
+K: 6 t: 61.51897220399405
+node c67450 napprox =  3090 nexact =  243
+K: 6 t: 58.80908784699568
+node c71820 napprox =  3089 nexact =  275
+K: 6 t: 60.142216389998794
+node c72335 napprox =  3090 nexact =  235
+K: 6 t: 59.64444492899929
+node c74444 napprox =  3083 nexact =  3061
+K: 6 t: 521.4319209410023
+node c75202 napprox =  3083 nexact =  274
+K: 6 t: 69.6680255500105
+node c76537 napprox =  3092 nexact =  289
+K: 6 t: 64.74956386898702
+node c79085 napprox =  3087 nexact =  262
+K: 6 t: 58.02339900600782
+node c87410 napprox =  3089 nexact =  268
+K: 6 t: 59.59272925800178
+node c88046 napprox =  3087 nexact =  261
+K: 6 t: 61.74743749000481
+node c88370 napprox =  3085 nexact =  2891
+K: 6 t: 511.82931158100837
+node c91277 napprox =  3087 nexact =  270
+K: 6 t: 63.272420434994274
+node c98844 napprox =  3084 nexact =  277
+K: 6 t: 62.18151926799328
+node f05715 napprox =  3087 nexact =  654
+K: 6 t: 122.9493324119976
+node f08781 napprox =  3084 nexact =  349
+K: 6 t: 63.644723712000996
+node f09037 napprox =  3086 nexact =  470
+K: 6 t: 116.17849214999296
+node f12099 napprox =  3083 nexact =  285
+K: 6 t: 58.117125749005936
+node f13769 napprox =  3089 nexact =  267
+K: 6 t: 59.81204391900974
+node f21728 napprox =  3082 nexact =  283
+K: 6 t: 64.97979374499118
+node f22239 napprox =  3085 nexact =  269
+K: 6 t: 74.16229456299334
+node f23549 napprox =  3087 nexact =  291
+K: 6 t: 79.4226212319918
+node f28077 napprox =  3088 nexact =  282
+K: 6 t: 61.174796859006165
+node f28388 napprox =  3093 nexact =  1561
+K: 6 t: 225.19469855399802
+node f30160 napprox =  3085 nexact =  2151
+K: 6 t: 368.9908845710015
+node f33860 napprox =  3082 nexact =  263
+K: 6 t: 57.80545974899724
+node f38053 napprox =  3088 nexact =  254
+K: 6 t: 62.463250606000656
+node f38736 napprox =  3087 nexact =  549
+K: 6 t: 83.9511669200001
+node f40694 napprox =  3086 nexact =  265
+K: 6 t: 62.80338472100266
+node f46004 napprox =  3085 nexact =  282
+K: 6 t: 62.48820784800046
+node f48100 napprox =  3082 nexact =  277
+K: 6 t: 63.135971701995004
+node f56015 napprox =  3085 nexact =  626
+K: 6 t: 106.41303795899148
+node f59566 napprox =  3088 nexact =  268
+K: 6 t: 68.95385499599797
+node f63957 napprox =  3085 nexact =  258
+K: 6 t: 58.05221473000711
+node f71010 napprox =  3084 nexact =  2566
+K: 6 t: 391.55456408498867
+node f76664 napprox =  3089 nexact =  263
+K: 6 t: 66.35769417599658
+node f81818 napprox =  3087 nexact =  311
+K: 6 t: 63.263894178991904
+node f86351 napprox =  3088 nexact =  289
+K: 6 t: 81.56431409700599
+node d007371 napprox =  3091 nexact =  269
+K: 6 t: 60.95721693299129
+node d009198 napprox =  3088 nexact =  271
+K: 6 t: 60.93353455400211
+node d028623 napprox =  3084 nexact =  3068
+K: 6 t: 505.3679268940032
+node d028890 napprox =  3087 nexact =  276
+K: 6 t: 67.03470869999728
+node d031686 napprox =  3085 nexact =  289
+K: 6 t: 62.92614115300239
+node d036791 napprox =  3089 nexact =  265
+K: 6 t: 56.18209760199534
+node d037743 napprox =  3085 nexact =  284
+K: 6 t: 64.04601276900212
+node d037955 napprox =  3087 nexact =  275
+K: 6 t: 79.23029339399363
+node d040812 napprox =  3084 nexact =  2905
+K: 6 t: 429.2142389849905
+node d056103 napprox =  3086 nexact =  281
+K: 6 t: 75.01405578300182
+node d062409 napprox =  3084 nexact =  298
+K: 6 t: 62.35121190200152
+node d064323 napprox =  3084 nexact =  297
+K: 6 t: 62.8637228969892
+node d065966 napprox =  3086 nexact =  2033
+K: 6 t: 377.18507313900045
+node d074351 napprox =  3087 nexact =  3079
+K: 6 t: 479.0605236870033
+node d083205 napprox =  3087 nexact =  263
+K: 6 t: 60.531594423999195
+node d085529 napprox =  3085 nexact =  209
+K: 6 t: 55.63889050600119
+node d086290 napprox =  3082 nexact =  274
+K: 6 t: 79.43821687399759
+node d098227 napprox =  3086 nexact =  3076
+K: 6 t: 474.3780711290019
+node d100414 napprox =  3093 nexact =  221
+K: 6 t: 55.86880335799651
+node d103258 napprox =  3083 nexact =  1165
+K: 6 t: 162.81132570799673
+node d103561 napprox =  3091 nexact =  283
+K: 6 t: 65.05783568100014
+node d106955 napprox =  3086 nexact =  851
+K: 6 t: 177.60864183900412
+node d111167 napprox =  3090 nexact =  452
+K: 6 t: 91.52576591700199
+node d121304 napprox =  3085 nexact =  3055
+K: 6 t: 498.17040565299976
+node d126799 napprox =  3086 nexact =  293
+K: 6 t: 80.1964236569911
+node d129209 napprox =  3083 nexact =  1126
+K: 6 t: 215.14253346101032
+node d136832 napprox =  3086 nexact =  220
+K: 6 t: 57.02972357699764
+node d139254 napprox =  3088 nexact =  264
+K: 6 t: 75.1885686260066
+node d140125 napprox =  3083 nexact =  324
+K: 6 t: 83.91233827399265
+node d140567 napprox =  3086 nexact =  2776
+K: 6 t: 472.5662946060038
+node d142124 napprox =  3087 nexact =  254
+K: 6 t: 68.7231933199946
+node d143332 napprox =  3089 nexact =  2533
+K: 6 t: 470.19402361400716
+node d151868 napprox =  3083 nexact =  425
+K: 6 t: 101.94214135700895
+node d156485 napprox =  3087 nexact =  1412
+K: 6 t: 203.32236096600536
+node d159424 napprox =  3082 nexact =  268
+K: 6 t: 72.0428549629869
+node d161514 napprox =  3082 nexact =  217
+K: 6 t: 55.91156825699727
+node d164207 napprox =  3088 nexact =  246
+K: 6 t: 64.04192740000144
+node d165835 napprox =  3087 nexact =  425
+K: 6 t: 87.38449576900166
+node d166996 napprox =  3082 nexact =  269
+K: 6 t: 57.63198719799402
+node d172561 napprox =  3088 nexact =  287
+K: 6 t: 60.9066461679904
+node d176147 napprox =  3091 nexact =  269
+K: 6 t: 78.49954530099058
+node d182061 napprox =  3082 nexact =  260
+K: 6 t: 58.24272532599571
+node d185245 napprox =  3087 nexact =  259
+K: 6 t: 61.6563168749999
+node d186508 napprox =  3084 nexact =  286
+K: 6 t: 62.34249902899319
+node d187718 napprox =  3090 nexact =  331
+K: 6 t: 68.73566888400819
+node d188000 napprox =  3087 nexact =  274
+K: 6 t: 67.72345846300595
+node d188208 napprox =  3087 nexact =  540
+K: 6 t: 81.42076226801146
+node d189245 napprox =  3087 nexact =  264
+K: 6 t: 54.49420002599072
+node d190089 napprox =  3089 nexact =  273
+K: 6 t: 70.66130573699775
+node d192379 napprox =  3090 nexact =  265
+K: 6 t: 62.41372481700091
+node d210342 napprox =  3082 nexact =  1769
+K: 6 t: 352.25885353199556
+node d213579 napprox =  3082 nexact =  379
+K: 6 t: 70.86026385199511
+node d223345 napprox =  3089 nexact =  2886
+K: 6 t: 427.86828620999586
+node d225265 napprox =  3085 nexact =  270
+K: 6 t: 75.17816730299091
+node d228929 napprox =  3087 nexact =  2602
+K: 6 t: 484.9141370639991
+node d235358 napprox =  3082 nexact =  280
+K: 6 t: 64.81154404699919
+node d236319 napprox =  3083 nexact =  280
+K: 6 t: 64.79610179200245
+node d238706 napprox =  3084 nexact =  1216
+K: 6 t: 226.29250718800176
+node d239087 napprox =  3083 nexact =  277
+K: 6 t: 63.39602598299098
+node d254659 napprox =  3083 nexact =  271
+K: 6 t: 68.20140851300675
+node d256147 napprox =  3089 nexact =  277
+K: 6 t: 61.84972863001167
+node d261516 napprox =  3084 nexact =  3069
+K: 6 t: 531.8681254160037
+node d267278 napprox =  3088 nexact =  268
+K: 6 t: 67.20769543100323
+node d269077 napprox =  3082 nexact =  3058
+K: 6 t: 522.0872875500063
+node d274928 napprox =  3082 nexact =  279
+K: 6 t: 60.464482759009115
+node d282533 napprox =  3092 nexact =  229
+K: 6 t: 59.342940603004536
+node d283159 napprox =  3085 nexact =  257
+K: 6 t: 59.47011758500594
+node d287035 napprox =  3093 nexact =  271
+K: 6 t: 57.57072490200517
+node d287881 napprox =  3089 nexact =  301
+K: 6 t: 81.05761278599675
+node d292088 napprox =  3088 nexact =  232
+K: 6 t: 54.71292917599203
+node d292568 napprox =  3086 nexact =  265
+K: 6 t: 63.79712029299117
+node d294863 napprox =  3082 nexact =  2688
+K: 6 t: 392.4097655390069
+node d298383 napprox =  3085 nexact =  261
+K: 6 t: 61.562343509998755
+node d299275 napprox =  3095 nexact =  495
+K: 6 t: 95.36838204100786
+node d301234 napprox =  3094 nexact =  279
+K: 6 t: 75.64914766899892
+node d301336 napprox =  3086 nexact =  264
+K: 6 t: 66.44070675100375
+node d304530 napprox =  3082 nexact =  344
+K: 6 t: 88.14658989600139
+node d305055 napprox =  3085 nexact =  291
+K: 6 t: 60.73884597000142
+node d309098 napprox =  3093 nexact =  264
+K: 6 t: 63.89513055099815
+node d313818 napprox =  3083 nexact =  281
+K: 6 t: 64.49338900500152
+node d315320 napprox =  3087 nexact =  271
+K: 6 t: 65.20181725900329
+node d318290 napprox =  3086 nexact =  239
+K: 6 t: 61.34922785499657
+node d322324 napprox =  3090 nexact =  2722
+K: 6 t: 403.7065249020088
+node d331217 napprox =  3093 nexact =  307
+K: 6 t: 62.78042662900407
+node d334829 napprox =  3088 nexact =  272
+K: 6 t: 78.36772042399389
+node d344773 napprox =  3088 nexact =  270
+K: 6 t: 77.412892680004
+node d348534 napprox =  3092 nexact =  273
+K: 6 t: 63.587187959012226
+node d354761 napprox =  3093 nexact =  268
+K: 6 t: 60.306334638007684
+node d363649 napprox =  3082 nexact =  278
+K: 6 t: 56.13152783099213
+node d364976 napprox =  3092 nexact =  262
+K: 6 t: 74.14120614799322
+node d365550 napprox =  3082 nexact =  254
+K: 6 t: 65.82391208200715
+node d368925 napprox =  3086 nexact =  512
+K: 6 t: 125.45489557999827
+node d371175 napprox =  3087 nexact =  265
+K: 6 t: 65.36775950199808
+node d373034 napprox =  3090 nexact =  273
+K: 6 t: 62.565091370008304
+node d376638 napprox =  3088 nexact =  327
+K: 6 t: 64.8705992049945
+node d379256 napprox =  3088 nexact =  273
+K: 6 t: 62.1950998960092
+node d382869 napprox =  3086 nexact =  271
+K: 6 t: 73.78507594100665
+node d384974 napprox =  3089 nexact =  297
+K: 6 t: 62.32235615499667
+node d386481 napprox =  3087 nexact =  2173
+K: 6 t: 385.45756896700186
+node d386641 napprox =  3088 nexact =  280
+K: 6 t: 67.44582530199841
+node d392550 napprox =  3085 nexact =  294
+K: 6 t: 61.49561172099493
+node d397694 napprox =  3089 nexact =  292
+K: 6 t: 63.30455785100639
+node d399081 napprox =  3082 nexact =  250
+K: 6 t: 62.35502070399525
+node d400324 napprox =  3091 nexact =  271
+K: 6 t: 65.57937484799186
+node d401594 napprox =  3082 nexact =  271
+K: 6 t: 77.75172725500306
+node d403425 napprox =  3082 nexact =  262
+K: 6 t: 56.37428593500226
+node d404165 napprox =  3087 nexact =  290
+K: 6 t: 62.15869444499549
+node d405203 napprox =  3092 nexact =  287
+K: 6 t: 59.88818927499233
+node d405770 napprox =  3087 nexact =  3073
+K: 6 t: 449.32014276199334
+node d418148 napprox =  3082 nexact =  302
+K: 6 t: 81.01399444301205
+node d418799 napprox =  3085 nexact =  454
+K: 6 t: 114.33327330001339
+node d427421 napprox =  3085 nexact =  250
+K: 6 t: 60.71466719699674
+node d435002 napprox =  3086 nexact =  282
+K: 6 t: 76.92460360800033
+node d435294 napprox =  3090 nexact =  242
+K: 6 t: 61.36531222600024
+node d436192 napprox =  3086 nexact =  261
+K: 6 t: 65.3885348019976
+node d440962 napprox =  3084 nexact =  276
+K: 6 t: 63.55492221399618
+node d442114 napprox =  3085 nexact =  934
+K: 6 t: 185.9694116449973
+node d444306 napprox =  3083 nexact =  283
+K: 6 t: 61.82117977399321
+node d450279 napprox =  3086 nexact =  287
+K: 6 t: 65.56704764500319
+node d454475 napprox =  3085 nexact =  298
+K: 6 t: 64.63302596499852
+node d460567 napprox =  3092 nexact =  238
+K: 6 t: 64.68695001999731
+node d462621 napprox =  3092 nexact =  261
+K: 6 t: 66.8764188990026
+node d468795 napprox =  3091 nexact =  244
+K: 6 t: 60.45091726600367
+node d470167 napprox =  3090 nexact =  267
+K: 6 t: 59.96813115100667
+node d475677 napprox =  3087 nexact =  251
+K: 6 t: 55.90026696199493
+node d486719 napprox =  3089 nexact =  273
+K: 6 t: 74.41660254698945
+node d493077 napprox =  3090 nexact =  281
+K: 6 t: 73.67676114600908
+node d504475 napprox =  3088 nexact =  284
+K: 6 t: 81.13949870699435
+node d505677 napprox =  3087 nexact =  261
+K: 6 t: 69.80600147199584
+node d508210 napprox =  3086 nexact =  242
+K: 6 t: 56.61688304800191
+node d508545 napprox =  3085 nexact =  2996
+K: 6 t: 552.3980976029998
+node d511330 napprox =  3087 nexact =  275
+K: 6 t: 89.28930315800244
+node d516876 napprox =  3089 nexact =  399
+K: 6 t: 102.11727569899813
+node d521604 napprox =  3086 nexact =  265
+K: 6 t: 110.67561695100449
+node d522664 napprox =  3087 nexact =  309
+K: 6 t: 115.84591855699546
+node d534527 napprox =  3087 nexact =  239
+K: 6 t: 83.66534715400485
+node d543757 napprox =  3086 nexact =  1982
+K: 6 t: 444.4781544729922
+node d546428 napprox =  3089 nexact =  1413
+K: 6 t: 216.1202971189923
+node d549570 napprox =  3090 nexact =  1619
+K: 6 t: 345.43928807800694
+node d551359 napprox =  3086 nexact =  3016
+K: 6 t: 493.1669987929927
+node d551885 napprox =  3088 nexact =  222
+K: 6 t: 64.91190947699943
+node d553449 napprox =  3085 nexact =  271
+K: 6 t: 64.48861472000135
+node d554928 napprox =  3083 nexact =  262
+K: 6 t: 67.8104409390071
+node d555753 napprox =  3088 nexact =  284
+K: 6 t: 65.1224695169949
+node d556921 napprox =  3088 nexact =  287
+K: 6 t: 63.71849405000103
+node d557862 napprox =  3086 nexact =  647
+K: 6 t: 97.00761059300567
+node d574573 napprox =  3094 nexact =  479
+K: 6 t: 123.26288002300134
+node d574875 napprox =  3085 nexact =  293
+K: 6 t: 85.74531562899938
+node d586440 napprox =  3084 nexact =  352
+K: 6 t: 68.69673534900357
+node d593276 napprox =  3086 nexact =  2942
+K: 6 t: 434.3796805279999
+node d599597 napprox =  3090 nexact =  234
+K: 6 t: 59.516063667004346
+node d613347 napprox =  3086 nexact =  284
+K: 6 t: 83.40605952899205
+node d621716 napprox =  3082 nexact =  268
+K: 6 t: 72.73816197100678
+node d621880 napprox =  3082 nexact =  276
+K: 6 t: 64.74533566199534
+node d625443 napprox =  3088 nexact =  274
+K: 6 t: 58.961220175988274
+node d633674 napprox =  3088 nexact =  225
+K: 6 t: 58.941887470995425
+node d636163 napprox =  3085 nexact =  259
+K: 6 t: 64.382474936996
+node d639324 napprox =  3087 nexact =  284
+K: 6 t: 61.251717973005725
+node d644820 napprox =  3088 nexact =  430
+K: 6 t: 92.48044088500319
+node d645966 napprox =  3087 nexact =  2564
+K: 6 t: 379.7779247180006
+node d658251 napprox =  3083 nexact =  2001
+K: 6 t: 371.6136365130078
+node d659050 napprox =  3087 nexact =  1481
+K: 6 t: 302.09679289499763
+node d659768 napprox =  3089 nexact =  251
+K: 6 t: 60.920577233002405
+node d660413 napprox =  3084 nexact =  289
+K: 6 t: 62.60992921399884
+node d661192 napprox =  3089 nexact =  222
+K: 6 t: 55.624350950994994
+node d661451 napprox =  3088 nexact =  270
+K: 6 t: 66.07085196499247
+node d663120 napprox =  3088 nexact =  218
+K: 6 t: 57.473783907000325
+node d683040 napprox =  3087 nexact =  233
+K: 6 t: 58.40658366899879
+node d685942 napprox =  3082 nexact =  281
+K: 6 t: 64.1912442860048
+node d686773 napprox =  3087 nexact =  279
+K: 6 t: 58.961680481006624
+node d690251 napprox =  3091 nexact =  285
+K: 6 t: 58.37368289400183
+node d699683 napprox =  3091 nexact =  2272
+K: 6 t: 356.1914296409959
+node d704754 napprox =  3087 nexact =  256
+K: 6 t: 58.13730630000646
+node d706042 napprox =  3084 nexact =  3069
+K: 6 t: 493.82016845600447
+node d706988 napprox =  3087 nexact =  3072
+K: 6 t: 519.9823345010082
+node d723137 napprox =  3083 nexact =  283
+K: 6 t: 62.440877679007826
+node d727722 napprox =  3089 nexact =  243
+K: 6 t: 55.56510455699754
+node d728926 napprox =  3090 nexact =  273
+K: 6 t: 77.42825389199425
+node d729839 napprox =  3088 nexact =  709
+K: 6 t: 124.76329950599757
+node d731988 napprox =  3086 nexact =  275
+K: 6 t: 59.91101723400061
+node d734686 napprox =  3092 nexact =  263
+K: 6 t: 59.30451259700931
+node d737613 napprox =  3082 nexact =  254
+K: 6 t: 64.33664513200347
+node d738236 napprox =  3088 nexact =  258
+K: 6 t: 63.97923029400408
+node d742118 napprox =  3090 nexact =  846
+K: 6 t: 124.75354707699444
+node d745608 napprox =  3084 nexact =  272
+K: 6 t: 61.51451774399902
+node d751222 napprox =  3083 nexact =  273
+K: 6 t: 62.197375706993625
+node d761352 napprox =  3086 nexact =  284
+K: 6 t: 58.2952886819985
+node d766029 napprox =  3088 nexact =  259
+K: 6 t: 62.87424190400634
+node d769146 napprox =  3089 nexact =  264
+K: 6 t: 57.81755230300769
+node d772937 napprox =  3084 nexact =  1096
+K: 6 t: 189.3422761480033
+node d782271 napprox =  3087 nexact =  300
+K: 6 t: 75.29169675899902
+node d785778 napprox =  3088 nexact =  730
+K: 6 t: 155.4994369299966
+node d788030 napprox =  3082 nexact =  276
+K: 6 t: 75.20519768199301
+node d789414 napprox =  3092 nexact =  1322
+K: 6 t: 258.87827667400416

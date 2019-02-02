@@ -1,0 +1,41 @@
+Erdos-Renyi graph benchmarks
+
+n =  1000 p =  0.01 #nodes =  1000 #edges =  4967
+Fast algorithm        K: 3 t: 0.3377565100090578
+Original algorithm    K: 3 t: 19.25979240599554
+Approximate algorithm K: 3 t: 0.1116003200004343
+
+n =  1000 p =  0.02 #nodes =  1000 #edges =  9943
+Fast algorithm        K: 8 t: 0.582482704980066
+Original algorithm    K: 8 t: 35.784259959997144
+Approximate algorithm K: 8 t: 0.35368189701694064
+
+n =  1000 p =  0.03 #nodes =  1000 #edges =  15152
+Fast algorithm        K: 13 t: 1.1279488820000552
+Original algorithm    K: 13 t: 57.274944091012
+Approximate algorithm K: 13 t: 0.6225024719897192
+
+n =  1000 p =  0.04 #nodes =  1000 #edges =  20318
+Fast algorithm        K: 21 t: 2.1837091429915745
+Original algorithm    K: 21 t: 95.5755659280112
+Approximate algorithm K: 21 t: 1.3135810300009325
+
+n =  1500 p =  0.01 #nodes =  1500 #edges =  11098
+Fast algorithm        K: 2 t: 0.48024432398960926
+Original algorithm    K: 2 t: 56.94196989299962
+Approximate algorithm K: 2 t: 0.14456341898767278
+
+n =  1500 p =  0.02 #nodes =  1500 #edges =  22474
+Fast algorithm        K: 14 t: 2.089504648000002
+Original algorithm    K: 14 t: 123.87786447099643
+Approximate algorithm K: 14 t: 1.3128674369945657
+
+n =  1500 p =  0.03 #nodes =  1500 #edges =  34130
+Fast algorithm        K: 23 t: 4.42411867599003
+Original algorithm    K: 23 t: 223.99691442301264
+Approximate algorithm K: 23 t: 2.7848794250166975
+
+n =  1500 p =  0.04 #nodes =  1500 #edges =  45178
+Fast algorithm        K: 36 t: 8.894190291990526
+Original algorithm    K: 36 t: 448.78196425299393
+Approximate algorithm K: 36 t: 5.516816157993162

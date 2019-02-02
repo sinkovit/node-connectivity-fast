@@ -1,0 +1,49 @@
+Social network benchmarks
+
+graph  social_network/social_largest_7component.net
+#nodes =  542 #edges =  3704
+Fast algorithm        K: 7 t: 2.7488822170125786
+Original algorithm    K: 7 t: 14.200604388985084
+Approximate algorithm K: 5 t: 0.3714499000052456
+
+graph  social_network/social_largest_pre7component.net
+#nodes =  573 #edges =  3889
+Fast algorithm        K: 6 t: 1.0175660379754845
+Original algorithm    K: 6 t: 15.818272449978394
+Approximate algorithm K: 6 t: 0.771714211005019
+
+graph  social_network/social_largest_6component.net
+#nodes =  3089 #edges =  19002
+Fast algorithm        K: 6 t: 69.58663278899621
+Original algorithm    K: 6 t: 468.2864766189887
+Approximate algorithm K: 4 t: 13.969473876000848
+
+graph  social_network/social_largest_pre6component.net
+#nodes =  3636 #edges =  22166
+Fast algorithm        K: 5 t: 45.50614229097846
+Original algorithm    K: 5 t: 520.5763859889994
+Approximate algorithm K: 3 t: 12.500374520983314
+
+graph  social_network/social_largest_5component.net
+#nodes =  9864 #edges =  53732
+Fast algorithm        K: 5 t: 210.8541899510019
+Original algorithm    K: 5 t: 2653.6119895910088
+Approximate algorithm K: 3 t: 38.39535202900879
+
+graph  social_network/social_largest_pre5component.net
+#nodes =  9923 #edges =  53996
+Fast algorithm        K: 4 t: 79.87010230901069
+Original algorithm    K: 4 t: 2508.7869864859967
+Approximate algorithm K: 3 t: 37.02008619098342
+
+graph  social_network/social_largest_4component.net
+#nodes =  19948 #edges =  94630
+Fast algorithm        K: 4 t: 518.8664184730151
+Original algorithm    K: 4 t: 9540.751291009015
+Approximate algorithm K: 2 t: 41.157110497995745
+
+graph  social_network/social_largest_3component.net
+#nodes =  37938 #edges =  150453
+Fast algorithm        K: 3 t: 1017.0422963539895
+Original algorithm    K: 3 t: 28351.485573452985
+Approximate algorithm K: 1 t: 109.03176809599972

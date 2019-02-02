@@ -1,0 +1,106 @@
+Barabasi-Albert graph benchmarks
+
+n =  1000 m =  4 #nodes =  1000 #edges =  3984
+Fast algorithm        K: 4 t: 0.35264351600199006
+Original algorithm    K: 4 t: 18.768867527978728
+Approximate algorithm K: 4 t: 0.12324904798879288
+
+n =  1000 m =  5 #nodes =  1000 #edges =  4975
+Fast algorithm        K: 5 t: 0.4723696440050844
+Original algorithm    K: 5 t: 20.269671966991154
+Approximate algorithm K: 5 t: 0.14742680001654662
+
+n =  1000 m =  6 #nodes =  1000 #edges =  5964
+Fast algorithm        K: 6 t: 0.5297723909898195
+Original algorithm    K: 6 t: 24.559598994004773
+Approximate algorithm K: 6 t: 0.19351750999339856
+
+n =  1000 m =  7 #nodes =  1000 #edges =  6951
+Fast algorithm        K: 7 t: 0.6457348740077578
+Original algorithm    K: 7 t: 26.487643265980296
+Approximate algorithm K: 7 t: 0.22359277700888924
+
+n =  1000 m =  8 #nodes =  1000 #edges =  7936
+Fast algorithm        K: 8 t: 0.7661384189850651
+Original algorithm    K: 8 t: 29.40253477799706
+Approximate algorithm K: 8 t: 0.26872714899946004
+
+n =  1000 m =  9 #nodes =  1000 #edges =  8919
+Fast algorithm        K: 9 t: 0.9540487609920092
+Original algorithm    K: 9 t: 33.68316981100361
+Approximate algorithm K: 9 t: 0.3515431020059623
+
+n =  1000 m =  10 #nodes =  1000 #edges =  9900
+Fast algorithm        K: 10 t: 1.119822001986904
+Original algorithm    K: 10 t: 36.75277380901389
+Approximate algorithm K: 10 t: 0.3638538880040869
+
+n =  2000 m =  4 #nodes =  2000 #edges =  7984
+Fast algorithm        K: 4 t: 0.7653845839959104
+Original algorithm    K: 4 t: 68.09702290801215
+Approximate algorithm K: 4 t: 0.3646777079848107
+
+n =  2000 m =  5 #nodes =  2000 #edges =  9975
+Fast algorithm        K: 5 t: 0.9139365099836141
+Original algorithm    K: 5 t: 80.33304693398532
+Approximate algorithm K: 5 t: 0.40805920300772414
+
+n =  2000 m =  6 #nodes =  2000 #edges =  11964
+Fast algorithm        K: 6 t: 1.0773473680019379
+Original algorithm    K: 6 t: 92.54835321300197
+Approximate algorithm K: 6 t: 0.4882569930050522
+
+n =  2000 m =  7 #nodes =  2000 #edges =  13951
+Fast algorithm        K: 7 t: 1.2441800340020563
+Original algorithm    K: 7 t: 104.29743079197942
+Approximate algorithm K: 7 t: 0.6051481180184055
+
+n =  2000 m =  8 #nodes =  2000 #edges =  15936
+Fast algorithm        K: 8 t: 1.6150149610184599
+Original algorithm    K: 8 t: 116.35103731200797
+Approximate algorithm K: 8 t: 0.7665467390033882
+
+n =  2000 m =  9 #nodes =  2000 #edges =  17919
+Fast algorithm        K: 9 t: 1.9183534560143016
+Original algorithm    K: 9 t: 142.17026937901392
+Approximate algorithm K: 9 t: 0.9188823819858953
+
+n =  2000 m =  10 #nodes =  2000 #edges =  19900
+Fast algorithm        K: 10 t: 2.113626906997524
+Original algorithm    K: 10 t: 145.24467218699283
+Approximate algorithm K: 10 t: 1.0262920899840537
+
+n =  3000 m =  4 #nodes =  3000 #edges =  11984
+Fast algorithm        K: 4 t: 1.576240077993134
+Original algorithm    K: 4 t: 154.41221870397567
+Approximate algorithm K: 4 t: 0.5462384019920137
+
+n =  3000 m =  5 #nodes =  3000 #edges =  14975
+Fast algorithm        K: 5 t: 1.4492958750051912
+Original algorithm    K: 5 t: 178.61184587300522
+Approximate algorithm K: 5 t: 0.7511614079994615
+
+n =  3000 m =  6 #nodes =  3000 #edges =  17964
+Fast algorithm        K: 6 t: 1.665580417989986
+Original algorithm    K: 6 t: 210.07845184698817
+Approximate algorithm K: 6 t: 0.7906668310170062
+
+n =  3000 m =  7 #nodes =  3000 #edges =  20951
+Fast algorithm        K: 7 t: 2.075946761004161
+Original algorithm    K: 7 t: 233.44267968001077
+Approximate algorithm K: 7 t: 1.0865208560135216
+
+n =  3000 m =  8 #nodes =  3000 #edges =  23936
+Fast algorithm        K: 8 t: 2.408576710993657
+Original algorithm    K: 8 t: 256.9675024129974
+Approximate algorithm K: 8 t: 1.2643205049971584
+
+n =  3000 m =  9 #nodes =  3000 #edges =  26919
+Fast algorithm        K: 9 t: 2.870137360994704
+Original algorithm    K: 9 t: 292.26671352999983
+Approximate algorithm K: 9 t: 1.617786085989792
+
+n =  3000 m =  10 #nodes =  3000 #edges =  29900
+Fast algorithm        K: 10 t: 3.1419218569935765
+Original algorithm    K: 10 t: 314.0939478960063
+Approximate algorithm K: 10 t: 1.7123938290169463
